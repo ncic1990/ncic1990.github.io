@@ -1,2 +1,0 @@
-@paper{the paper entitled @title{.} was reviewed and has a comment: @review.comments{.}
-}
